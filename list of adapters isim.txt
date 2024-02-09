@@ -1,8 +1,7 @@
 following are the list of adapters supported by isim:
 IBM Security Identity Adapter for Microsoft Azure Active Directory
 IBM Security Identity Adapter for IBM Security Verify
-IBM Security Identity Adapter for Command-Line 
-ISIM v7.0 Desktop Password Reset Assistant (DPRA) 
+IBM Security Identity Adapter for Command-Line  
 IBM Security Identity Adapter Development and Customization Guide
 IBM Security Identity Adapters Language Pack 
 IBM Security Identity Adapter for IBM Security Access Manager
